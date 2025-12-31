@@ -11,13 +11,6 @@
     <li><strong>Tech Stack:</strong> C++, FastNoise Library, Windows Console API.</li>
 </ul>
 
-<h3>2. Data-Driven Turn-Based RPG (Python)</h3>
-<p>A feature-complete command-line RPG that features dynamic difficulty scaling and a persistent save system. This project demonstrates the ability to manage complex state and game logic without relying on a game engine.</p>
-<ul>
-    <li><strong>Core Concepts:</strong> Parallel data structures, file I/O for state persistence, and algorithmic game balance.</li>
-    <li><strong>Tech Stack:</strong> Python, Custom Data-Driven Architecture.</li>
-</ul>
-
 <h2>Technical Skills Overview</h2>
 <ul>
     <li><strong>Languages:</strong> Python, C++, C#, HTML, CSS, JavaScript, SQL.</li>
